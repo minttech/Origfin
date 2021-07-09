@@ -1,0 +1,151 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 18px;
+    font-family: cursive;
+    font-weight: 40;
+    color: rgb(255, 255, 255);
+}
+
+.body{
+    background-image: url(Images/bg.jpg);
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    justify-content: space-between;
+}
+
+.grid1{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    justify-content: space-evenly;
+}
+
+.grid2{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    justify-content: space-evenly;
+}
+
+.grid3{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    justify-content: space-evenly;
+}
+
+.grid1 img{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.grid2 img{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.grid3 img{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami1{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: violet;
+    width: 310px;
+    font-family: cursive;
+}
+
+.origami2{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: indigo;
+    width: 310px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.origami3{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: lightgreen;
+    width: 310px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.origami4{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: lightblue;
+    width: 310px;
+    font-family:serif;
+    font-size: 18px;
+}
+
+.origami5{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: yellow;
+    width: 310px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.origami6{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: orange;
+    width: 310px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.origami7{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: red;
+    width: 310px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.origami8{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.origami9{
+    border: solid;
+    border-color: black;
+    border-width: medium;
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
